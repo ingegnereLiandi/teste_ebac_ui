@@ -22,5 +22,8 @@
     "react": "^18.1.0",
     "react-scripts": "^5.0.1",
     "webpack": "^5.73.0"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
   }
 }

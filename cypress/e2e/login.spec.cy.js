@@ -19,7 +19,17 @@ context ('Funcionalidade login', ()=> {
         cy.get ('.woocommerce-MyAccount-content > :nth-child(2)').should ('contain', 'Olá')
 
 
-    })
+})
+
+   // it('Deve fazer login com sucesso- Usando arquivo de dados', () => {
+
+       // cy.get ('#username'). type ('')
+        //cy.get ('#password'). type ('')
+       // cy.get ('.woocommerce-form > .button').click ()
+       // cy.get ('.page-title').should ('contain', 'Minha conta')
+        
+    //});
+
     it('Deve exibir um mensagem de erro ao inserir usuario invalido', ()=> {
         cy.get ('#username'). type ('ebac@teste.com')
         cy.get ('#password'). type ('teste@teste')

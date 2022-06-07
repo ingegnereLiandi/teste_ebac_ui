@@ -36,5 +36,3 @@ describe('Funcionalidade página de produtos', () => {
 
 
     });
-
-

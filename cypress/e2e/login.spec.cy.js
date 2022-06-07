@@ -7,7 +7,7 @@ context ('Funcionalidade login', ()=> {
     });
     
     afterEach(() => {
-        cy.screenshot ()
+       // cy.screenshot ()
     });
 
     it ('Deve fazer login com sucesso', () => {

@@ -1,11 +1,13 @@
 /// <reference types="cypress"/>
 
-describe('Funcionalidade página de produtos', () => {
-
+context ('Funcionalidade login', ()=> {
 
     beforeEach(() => {
-        cy.visit('http://lojaebac.ebaconline.art.br/produtos/')
-
+        cy.visit ('http://lojaebac.ebaconline.art.br/produtos/')
+    });
+    
+    afterEach(() => {
+       // cy.screenshot ()
     });
 
     it('Deve selecionar um produto da lista', () => {

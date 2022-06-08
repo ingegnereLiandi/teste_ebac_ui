@@ -34,7 +34,11 @@ context ('Funcionalidade login', ()=> {
 
     });
 
-  
+    it('Deve adicionar produto ao carrinho usando Comando customizado', () => {
+cy.addProdutos  ('.button-variable-item-34',  )
+
+    })
+
 
 
     });

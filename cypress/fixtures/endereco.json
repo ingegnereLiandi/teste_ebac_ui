@@ -1,0 +1,45 @@
+[
+    {
+        "nome": "Catarina",
+        "sobrenome": "Liandi",
+        "empresa": "Gadumenck",
+        "endereco": "Av das Cucuias",
+        "numero": "69",
+        "pais": "Brasil",
+        "cidade": "São Bernado do Campo",
+        "Estado": "São Paulo",
+        "cep": "06268-050",
+        "telefone": "3601-2415",
+        "email": "catarinaliandi@hotmail.it"
+    },
+    {
+        "nome": "Stefano",
+        "sobrenome": "Liandi",
+        "empresa": "Cibin S.A",
+        "endereco": "Av  Cazzo",
+        "numero": "171",
+        "pais": "Brasil",
+        "cidade": "Barueri",
+        "Estado": "São Paulo",
+        "cep": "06268-200",
+        "telefone": "1199716-5410",
+        "email": "stefanoliandi@hotmail.it"
+    },
+
+    {
+        "nome": "Lorenzo",
+        "sobrenome": "Liandi",
+        "empresa": "Cosa Nostra",
+        "endereco": "Al. Giovanni Falcone",
+        "numero": "430",
+        "pais": "Brasil",
+        "cidade": "Recife",
+        "Estado": "Pernambuco",
+        "cep": "06268-110",
+        "telefone": "1196969-6969",
+        "email": "lorenzoliandi@hotmail.it"
+    },
+    {
+
+    }
+]
